@@ -1,4 +1,6 @@
-**Feelings into Words**
+<img src="assets/screenshot-words-project.png" alt="Feelings into Words Project Screenshot" width="100%">
+
+## **Feelings into Words**
 
 Feelings into Words is an interactive web application developed with vanilla HTML, CSS, and JavaScript, created to explore and translate untranslatable terms from various languages that describe deep emotional states.
 
